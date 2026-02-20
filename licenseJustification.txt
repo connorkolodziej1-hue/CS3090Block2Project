@@ -1,0 +1,15 @@
+Repo Link: https://github.com/connorkolodziej1-hue/CS3090Block2Project/tree/main
+
+    For my project, I chose to use the MIT license. This license was chosen as it
+allows for permissions on almost all fronts besides liability. This means that modifications, including malicious ones,
+are allowed, but that I can't be held responsible for how people use my code. 
+    I want my code to be used across many different platforms, both public and private. To do so I need to allow for modification
+and as much open source use as possible. Users tend to prefer programs and code with as much open source accessibility as possible, via widely known
+public licenses. This is because the privileges of public licenses, like the MIT license, are widely known, as opposed to custom licenses which often require
+review to ensure they fulfill a users use-case. Custom licenses can often scare off potential users as they that extra review work to confirm adequacy. As to 
+Why I specifically chose the MIT public license, this is because of the liability clause included. 
+    The MIT license states "IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE." Making my project open source creates the potential risk of malicious use. The MIT license protects me from accountability of any said malicious use
+by having me not be directly responsible for how anyone besides myself decides to use my software. For example, if someone decides to modify my code to store
+any personal information input, the responsibility for doing so falls on said person instead of me.
